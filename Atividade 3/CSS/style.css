@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    font-style: italic;
+    text-align: center;
+    word-spacing: 10px;
+}
+
+p{
+    color: blue;
+    font-size: 12px;
+    letter-spacing: 3em;
+    word-spacing: 4px;
+    text-align: left;
+    line-height: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 25px;
+}
+
+div{
+    color: pink;
+    width: 60%;
+    height: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 6px;
+    background-color: coral;
+}

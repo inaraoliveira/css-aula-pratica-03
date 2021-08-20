@@ -1,0 +1,56 @@
+header{
+    background-color: #b3949b;
+    height: 70px;
+}
+
+header > h1{
+    font-family: sans-serif;
+    display: inline;
+    margin-left: 10px;
+    color: white;
+}
+
+nav{
+    display: inline;
+    margin-left: 480px;
+}
+
+a{
+    color: white;
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imagem{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.texto{
+    margin-left: 310px;
+}
+
+aside{
+    background-color: #b3949b;
+    width: 90px;
+    height: 20px;
+}
+
+aside > p{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    text-align: left;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: left;
+}

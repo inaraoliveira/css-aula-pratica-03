@@ -1,0 +1,27 @@
+
+body{
+    background-image: url(https://images5.alphacoders.com/113/thumb-1920-1138409.jpg);
+}
+
+#chihiro{
+    background-color: rgba(128, 211, 183, 0.76);
+    width: 300px;
+    height: 600px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+}
+

@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(219, 188, 248);
+}
+
+#titulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    font-variant: small-caps;
+    color: #cf3e55;
+}
+
+#imagem{
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#smoothie{
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    height: 150px;
+    box-shadow: 6px 5px 3px;
+    margin-left: 10px;
+}
+
+.ingredientes{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-style: italic;
+}
+
+#preparo{
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    height: 150px;
+    box-shadow: 6px 5px 3px;
+    margin-left: 10px;
+}
+
+.modo-preparo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+form > input:hover{
+    box-shadow: 2px 2px;
+}
